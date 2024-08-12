@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rayyan Ansari</h1>
-<h3 align="center">A passionate frontend developer from Mumbai, India</h3>
+<h3 align="center">A passionate developer from Mumbai, India</h3>
 
 - 🔭 I’m currently working on **Automatic Checkout Application**
 
